@@ -1,10 +1,14 @@
 # 88java
 
-> This is a page for 88Java
+> This is a page for 88Java, We have referenced vue for bulid web page.
 
 ## Build Setup
-
+you need run program in npm environment,first you need download node.js from https://nodejs.org/en/
 ``` bash
+# build environment(run the code in cmd)
+npm install -g cnpm --registry=https://registry.npm.taobao.org
+npm install -g vue-cli
+npm install --save vue-video-player 
 # install dependencies
 npm install
 
